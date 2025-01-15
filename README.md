@@ -1,15 +1,2 @@
-# externallySwitchingBuck
-For MRover
 
-
-PARTS LIST:
-
-IC LM3150
-
-Capacitors:
-
-Mosfets:
-
-Inductors:
-In JLC
-Resistors:
+(https://docs.google.com/document/d/1Cz9LGfsb0_dDeGoQ0kXx4yR3wp1f0GkzWioZYvYoSUI/edit?usp=sharing)
