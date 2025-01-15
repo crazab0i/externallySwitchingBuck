@@ -11,5 +11,5 @@ Capacitors:
 Mosfets:
 
 Inductors:
-
+In JLC
 Resistors:
